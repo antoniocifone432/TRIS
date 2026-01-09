@@ -4,7 +4,9 @@ Gioco del Tris a due giocatori realizzato in Python, giocabile da terminale.
 
 ## Come eseguirlo
 Assicurati di avere Python 3 installato.
-Vai nel prompt dei comandi e inserisci
+Vai su powershell
+Inserisci il percorso della cartella dove è presente il gioco
+Successivamente scrivi python tris.py e il gioco partirà
 
 Regole
 
